@@ -1,0 +1,5 @@
+# 1.	Problem: Write a Python program to remove duplicates from a list while maintaining the original order.
+# 2.	Problem: Create a list of numbers from 1 to 10 and write a program to find the sum of all the elements.
+# 3.	Problem: Write a Python program to reverse a list without using the built-in reverse() method.
+# 4.	Problem: Given a list of strings, write a function that returns a list of strings that start with the letter "a".
+# 5.	Problem: Write a Python program to split a list into two parts, where the first part contains the first half of the elements and the second part contains the rest.
